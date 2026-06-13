@@ -1,0 +1,17 @@
+# Java/Maven ignore files
+target/
+*.class
+*.jar
+*.war
+.mtj.tmp/
+
+# Python/Pycharm ignore files
+__pycache__/
+*.py[cod]
+venv/
+.env
+.idea/
+
+# OS/System ignore files
+.DS_Store
+Thumbs.db
