@@ -2,9 +2,9 @@ package com.zcas.ecommerce.controller;
 
 import com.zcas.ecommerce.model.Product;
 import com.zcas.ecommerce.service.ProductService;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
-import java.util.ResponseEntity;
 
 @RestController
 @RequestMapping("/api/products")
